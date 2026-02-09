@@ -8,6 +8,6 @@ export default defineNuxtConfig({
     preset: 'github-pages'
   },
   app: {
-    baseURL: '/nuxt.js/'
+    baseURL: '/nuxt.js-/'
   }
 })
